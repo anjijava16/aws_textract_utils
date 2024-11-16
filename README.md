@@ -17,3 +17,8 @@ $ streamlit run app.py
 $ Upload .pdf file it will call aws texract service display below result .
 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/791fa807-80fa-4ec3-aca7-6d43c222dadb">
+
+
+# Reference use cases
+1. <img width="957" alt="image" src="https://github.com/user-attachments/assets/29ae6b48-1233-4534-841c-036a072ae5c1">
+
